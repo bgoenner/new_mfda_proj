@@ -22,4 +22,4 @@ WARNING: no fill config file specified
 [INFO] Checking for orphan cell in the final layout...
 [INFO] No orphan cells
 [INFO] Writing out GDS/OAS 'results/smart_toilet/base/4_1_merged.gds'
-Elapsed time: 0:00.71[h:]min:sec. Average CPU: 99%. Peak memory: 314156KB.
+Elapsed time: 0:01.17[h:]min:sec. Average CPU: 68%. Peak memory: 313948KB.

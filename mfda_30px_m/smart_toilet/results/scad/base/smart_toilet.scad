@@ -1,6 +1,6 @@
 $fn = 120;
-use </place_and_route/pnr/results/mfda_30px_m/smart_toilet/base/smart_toilet_std_cells.scad>
 use </place_and_route/pnr/results/mfda_30px_m/smart_toilet/base/smart_toilet_routing.scad>
+use </place_and_route/pnr/results/mfda_30px_m/smart_toilet/base/smart_toilet_std_cells.scad>
 
 
 union() {

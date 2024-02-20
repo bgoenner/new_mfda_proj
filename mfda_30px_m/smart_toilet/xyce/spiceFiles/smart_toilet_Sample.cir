@@ -44,8 +44,12 @@ Ydiffmix_25px_0 mix1 33 41 44 35 43 46
 Yserpentine_200px_0 serp7 45 13 47 14
 
 
+
+
+
 .tran 0.1m 1m
-.print tran V(14)
+.print tran V(32) V(44) V(14) V(14) V(14) V(34) V(34) V(46) V(46) V(42)
+
 .end
 
 

@@ -45,11 +45,3 @@ Yserpentine_200px_0 serp7 connect6_1 out_ch connect6_1c out_chc
 
 
 *voltage probes
-
-
-.tran 0.1m 1m
-.print tran V(connect2_0) V(connect6_0) V(out_chc) V(out_chc) V(out_chc) V(connect2_0c) V(connect2_0c) V(connect6_0c) V(connect6_0c) V(connect5_0c)
-
-.end
-
-*.tran 0.1ms 1ms

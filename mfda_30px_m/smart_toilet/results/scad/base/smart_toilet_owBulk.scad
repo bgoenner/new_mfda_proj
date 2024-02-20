@@ -1,6 +1,6 @@
 $fn = 120;
-use <smart_toilet_std_cells.scad>
 use <smart_toilet_routing.scad>
+use <smart_toilet_std_cells.scad>
 
 
 union() {
